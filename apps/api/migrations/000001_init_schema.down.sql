@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS template_versions;
+DROP TABLE IF EXISTS templates;
+DROP TABLE IF EXISTS memberships;
+DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS orgs;
+DROP EXTENSION IF EXISTS "uuid-ossp";
